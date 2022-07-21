@@ -1,0 +1,12 @@
+*{
+    background-color: red;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: blue;
+    text-transform: uppercase;
+}
